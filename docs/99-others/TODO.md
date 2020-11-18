@@ -31,3 +31,6 @@ https://www.jianshu.com/p/9fe944ee02f7
 
 scotthyoung
 https://www.scotthyoung.com/blog/
+
+C++那些事
+https://light-city.club/sc/
