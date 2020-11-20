@@ -7,6 +7,9 @@ https://wiki.ubuntu.org.cn/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile
 学习笔记必备软件：OneNote+ Mindmaster:
 https://zhuanlan.zhihu.com/p/190151238
 
+上班族如何安排时间才能每天都早起、读书、跑步、冥想？ - 常青的回答 - 知乎
+https://www.zhihu.com/question/28042735/answer/1579567637
+
 读一本忘一本，感觉完全没收获，该怎么读书？
 https://www.zhihu.com/question/36993330/answer/1544965652
 
