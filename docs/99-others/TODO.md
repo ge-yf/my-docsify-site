@@ -37,3 +37,9 @@ https://www.scotthyoung.com/blog/
 
 C++那些事
 https://light-city.club/sc/
+
+WSL2
+https://docs.microsoft.com/zh-cn/windows/wsl/compare-versions
+
+starship
+https://github.com/starship/starship
